@@ -1,0 +1,28 @@
+
+  #EXTM3U
+  #EXTINF:0,Bein_Sport_1_byAmrElsherif
+  http://62.210.181.164:7777/yacinenew770/yacinenew770/1
+
+  #EXTINF:0,Bein_Sport_2_byAmrElsherif
+  http://62.210.181.164:7777/yacinenew770/yacinenew770/2
+
+  #EXTINF:0,Bein_Sport_3_byAmrElsherif
+  http://62.210.181.164:7777/yacinenew770/yacinenew770/3
+
+  #EXTINF:0,Bein_Sport_4_byAmrElsherif
+  http://62.210.181.164:7777/yacinenew770/yacinenew770/4
+
+  #EXTINF:0,Bein_Sport_5_byAmrElsherif
+  http://62.210.181.164:7777/yacinenew770/yacinenew770/5
+
+  #EXTINF:0,Bein_Sport_6_byAmrElsherif
+  http://62.210.181.164:7777/yacinenew770/yacinenew770/6
+
+  #EXTINF:0,Bein_Sport_7_byAmrElsherif
+  http://62.210.181.164:7777/yacinenew770/yacinenew770/20
+
+  #EXTINF:0,Bein_Sport_8_byAmrElsherif
+  http://62.210.181.164:7777/yacinenew770/yacinenew770/21
+
+  #EXTINF:0,Bein_Sport_9_byAmrElsherif
+  http://62.210.181.164:7777/yacinenew770/yacinenew770/22
